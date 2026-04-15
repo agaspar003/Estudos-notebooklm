@@ -17,4 +17,8 @@ Miniguia de Estudo (Entrega Final):
 Apresente o resultado final consolidado, que deve conter:
 Resumos estruturados do assunto;
 Um glossário com os principais conceitos aprendidos;
-Um conjunto de prompts reutilizáveis que possam apoiar futuras revisões sobre o tema.
+
+Prompts reutilizáveis:
+
+Quais impactos a Inteligência Artificial traz para o mercado de trabalho nos próximos anos?
+
