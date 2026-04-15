@@ -23,6 +23,9 @@ Prompts e Aprendizados:
 
 Prompts:
 
+Prompt utilizado ao se acrescentar fontes: "Como as novas fontes contribuem para o estudo até agora? O que trazem de novo e mais relevante? Existem contradições?"
+
+
 Lições Aprendidas:
 
 Importante uma análise das fontes obtidas no Deep Research - apesar de serem ótimas referências, podem trazer aspectos não relevantes para o estudo, e nesses casos devemos elimina-las antes de prosseguir.
