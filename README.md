@@ -7,7 +7,7 @@ Curadoria de Fontes:
 Fontes primárias:
 Relatório (em pdf) e site do Future of Jobs Report 2025 do World Economic Forum - https://www.weforum.org/publications/the-future-of-jobs-report-2025/
 
-Fontes obtidas por Deep Research:
+Fontes obtidas por Deep Research com o prompt (Relatórios, estudos e pesquisas sobre a Inteligência Artificial e o Futuro do Trabalho):
 
 
 Engenharia de Prompts e "Cicatrizes": 
