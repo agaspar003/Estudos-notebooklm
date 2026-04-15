@@ -17,8 +17,9 @@ O Paradigma da Inteligência Artificial e a Reconfiguração Sistêmica do Traba
 
 
 
-Engenharia de Prompts e "Cicatrizes": 
-Documente as perguntas estratégicas que você elaborou e as variações de prompts que testou. Dica de ouro: registre as respostas obtidas, suas referências e também as dificuldades que encontrou para extrair a melhor resposta da IA (troubleshooting). O mercado valoriza profissionais que mostram o raciocínio por trás dos resultados!
+Prompts e Aprendizados:
+
+Prompts:
 
 Lições Aprendidas:
 
