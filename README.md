@@ -18,7 +18,6 @@ O Paradigma da Inteligência Artificial e a Reconfiguração Sistêmica do Traba
 Canaries in the Coal Mine? Six Facts about the Recent Employment Effects of Artificial Intelligence
 
 
-
 Prompts e Aprendizados:
 
 Prompts:
@@ -104,10 +103,16 @@ Para um futuro tecnológico justo, é essencial promover a "AI Fluency" (Fluênc
 
 O papel do aprendiz e do desenvolvedor é garantir que a Inteligência Artificial não seja apenas inteligente, mas também consciente de seu impacto social. O futuro da justiça digital depende da nossa coragem de programar a equidade.
 
-Resumos estruturados do assunto;
-Um glossário com os principais conceitos aprendidos;
+Resumo:
+
+A integração da Inteligência Artificial (IA) no ambiente corporativo atingiu um ponto de inflexão em 2026, com 88% das organizações utilizando a tecnologia em pelo menos uma função de negócio. No entanto, a transição da adoção experimental para a escala transformadora permanece um desafio, com apenas 7% das empresas operando com IA totalmente escalada. O cenário atual aponta para uma reconfiguração sistêmica do trabalho, evoluindo para uma parceria entre pessoas, agentes (IA para tarefas não físicas) e robôs (IA para tarefas físicas).
+Embora cerca de 57% das horas de trabalho atuais nos EUA possuam potencial técnico de automação, a IA não tornará a maioria das habilidades humanas obsoletas; em vez disso, alterará a forma como são aplicadas. O impacto econômico projetado é de US$ 2,9 trilhões em valor anual até 2030, condicionado à capacidade das lideranças de redesenhar fluxos de trabalho inteiros, em vez de apenas automatizar tarefas isoladas. Um risco crítico persiste: a automação de vieses humanos históricos, especialmente em processos de recrutamento, o que exige intervenções técnicas rigorosas e colaboração humano-IA.
 
 Prompts reutilizáveis:
 
 Quais impactos a Inteligência Artificial traz para o mercado de trabalho nos próximos anos?
+
+Liste as 5 principias recomendações para os profissionais que acreditam que seu trabalho está em risco por conta da IA
+
+Como as contradições encontradas nas fontes utilizadas neste estudo podem afetar as conclusões? E o que aprendemos com elas?
 
