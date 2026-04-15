@@ -15,6 +15,8 @@ AI in the workplace: A report for 2025 | McKinsey
 
 O Paradigma da Inteligência Artificial e a Reconfiguração Sistêmica do Trabalho Global: Uma Análise de 2024 a 2030
 
+Canaries in the Coal Mine? Six Facts about the Recent Employment Effects of Artificial Intelligence
+
 
 
 Prompts e Aprendizados:
