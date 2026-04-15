@@ -3,6 +3,7 @@ Estudos Notebook LM
 Contexto e Objetivos: Assunto escolhido: IA e o Futuro do Trabalho, com objetivo de ampliar meu conhecimento e fornecer subsídios para videos de meu canal no youtube.
 
 Curadoria de Fontes: 
+
 Fontes primárias:
 Relatório (em pdf) e site do Future of Jobs Report 2025 do World Economic Forum - https://www.weforum.org/publications/the-future-of-jobs-report-2025/
 
